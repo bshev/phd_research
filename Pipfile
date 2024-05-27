@@ -10,7 +10,9 @@ matplotlib = "*"
 scikit-image = "*"
 pyarrow= "*"
 h5py = "*"
+tqdm = "*"
 hyperspy = "*"
+
 
 [dev-packages]
 

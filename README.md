@@ -1,6 +1,11 @@
 # phd_research
 
-Repo for old Jupyter notebooks, data analysis and visualizations from physics PhD research:
+Repo for old Jupyter notebooks, data analysis and visualizations from physics PhD research. 
+
+### Prerequisites
+
+- Python 3.10
+- [Poetry](https://python-poetry.org/) for dependency management
 
 # Project Notebooks
 

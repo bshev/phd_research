@@ -9,6 +9,13 @@ Repo for old Jupyter notebooks, data analysis and visualizations from physics Ph
 
 # Project Notebooks
 
+## [NanoparticleSizeDistribution](notebooks/NanoparticleSizeDistribution.ipynb)
+<p align="center">
+  <img src="imgs/nanoparticles.png" alt="Nanoparticle Size Distribution" width="500">
+</p>
+
+- Using thresholding and region analysis on STEM images of nanoparticle films to get statistical properties of synthesis runs.
+
 ## [hBNonSiSEMTrajectories](notebooks/hBNonSiSEMTrajectories.ipynb)
 <p align="center">
   <img src="imgs/SEMBeam.png" alt="Electron trajectories in SEM beams" width="700">
@@ -16,12 +23,7 @@ Repo for old Jupyter notebooks, data analysis and visualizations from physics Ph
 
 - Visualization of SEM electron trajectories inside a typical semiconducting multilayer sample.
 
-## [NanoparticleSizeDistribution](notebooks/NanoparticleSizeDistribution.ipynb)
-<p align="center">
-  <img src="imgs/nanoparticles.png" alt="Nanoparticle Size Distribution" width="500">
-</p>
 
-- Using thresholding and region analysis on STEM images of nanoparticle films to get statistical properties of synthesis runs.
 
 ## [AverageUnitCellNanotube](notebooks/AverageUnitCellNanotube.ipynb)
 <p align="center">
